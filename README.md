@@ -17,7 +17,7 @@
 > Links
 
 - [Django Gradient Able PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro) - product page
-- [Django Gradient Able PRO](https://django-dashboard-gradient-pro.appseed.us/) - LIVE Deployment
+- [Django Gradient Able PRO](https://django-gradient-pro.appseed-srv1.com) - LIVE Deployment
 
 <br />
 
